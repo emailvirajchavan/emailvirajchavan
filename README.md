@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Viraj
-- 👀 I’m interested in creating and building web applications/ websites
-- 🌱 I’m currently learning python and django also PowerBI.
-- 💞️ I’m looking to collaborate on projects I will be developing soon
+- 👀 I’m interested in creating and building web applications/ websites.
+- 🌱 I’m currently learning django and API integrations.
+- 💞️ I’m looking to collaborate on projects that I will be developing soon.
 - 📫 How to reach me: you can drop me an email on "emailvirajchavan@gmail.com" add the "from github - your suggestion/ question" in the subject.
-- ⚡ Things I am interested apart from coding: formula one and cricket enthusiast. 
+- ⚡ Things I am interested apart from coding: formula one, cricket and books. 
 
 <!---
 emailvirajchavan/emailvirajchavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
